@@ -3,7 +3,7 @@ package com.shipra_apps.expensetracker.data
 import com.shipra_apps.expensetracker.model.Expense
 
 object SampleData {
-    val expense = listOf(
+    val expenses = listOf(
         Expense(
             123,
             "New Life",
